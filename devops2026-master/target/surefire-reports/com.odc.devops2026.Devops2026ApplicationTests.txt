@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.odc.devops2026.Devops2026ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.70 s -- in com.odc.devops2026.Devops2026ApplicationTests

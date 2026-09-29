@@ -1,0 +1,5 @@
+com\odc\devops2026\controller\StudentController.class
+com\odc\devops2026\Devops2026Application.class
+com\odc\devops2026\services\StudentService.class
+com\odc\devops2026\repository\StudentRepository.class
+com\odc\devops2026\entites\Students.class
